@@ -3,6 +3,6 @@
 
 定义函数：<br>
   euclidean_dist：计算两点之间的欧几里得距离。<br>
-  detect_blink：检测眨眼动作，并在检测到眨眼时更换狗的图片。<br>
+  detect_blink：检测眨眼动作，并在检测到眨眼时更换狗图片。<br>
   reduce_noise：使用高斯滤波器减少图像噪声。
 
